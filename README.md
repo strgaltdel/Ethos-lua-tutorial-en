@@ -29,8 +29,8 @@ https://github.com/strgaltdel/Ethos-lua-tutorial-de/wiki
 
 </br>
 
-The repository contains the tutorial as a PDF under "docs."
-Example Lua scripts will also be stored in the repository.
+The repository contains the tutorial as a PDF under "doc."
+Example Lua scripts will also be stored in the repository later on.
 
 It is planned to release a new chapter every 6-8 weeks.
 
