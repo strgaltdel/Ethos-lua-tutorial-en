@@ -36,6 +36,9 @@ It is planned to release a new chapter every 6-8 weeks.
 
 Participants of the German FrSky Forum by Engel can also access it in the Wiki there.
 
+last update:
+Nov.2024 :  "chapter II, my first luas"
+
 
 </br></br>
 
